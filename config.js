@@ -1,19 +1,17 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    introTitle: 'Hé Lô ANh EM!',
+    introDesc: `Tôi có chuyện muốn hỏi ae
+    `,
+    btnIntro: 'Ok',
+    title: 'Loz Phát Lôm côm lắm đúng k ',
+    desc: 'Djtme nó dám chửi thầy Bình ',
+    btnYes: 'Đúng rồi ',
+    btnNo: 'Không',
+    question:'Tại sao bạn biết loz Phát lôm côm',
+    btnReply: 'Gửi cho TriDSN1596',
+    reply: 'Trí Said Djt me no mới làm code chửi thầy ',
+    mess: 'Tao Biết Mà',
+    messDesc: 'Loz Phát Thắc mắc gì vui lòng nhấn ok để được giải quyết .',
+    btnAccept: 'Okiiiii lun ',
+    messLink: 'https://m.me/TriDSN1596' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
